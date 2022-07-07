@@ -1,0 +1,20 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.odd{
+    background-color: #ffcccb;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#oneId{
+    color: #0000FF;
+    font-size: 36px;
+}
+.cooler{
+    font-size: 24px;
+}
+#twoId{
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+    }
